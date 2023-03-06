@@ -1,0 +1,66 @@
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\appsettings.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Assign1.exe
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Assign1.deps.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Assign1.runtimeconfig.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Assign1.pdb
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.AssemblyInfo.cs
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.Assign1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.build.Assign1.props
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Assign1.props
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Assign1.props
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\scopedcss\bundle\Assign1.styles.css
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.csproj.CopyComplete
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\refint\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.pdb
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\Assign1.genruntimeconfig.cache
+C:\Users\promact\Desktop\API\Assign1\Assign1\obj\Debug\net7.0\ref\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\appsettings.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Assign1.exe
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Assign1.deps.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Assign1.runtimeconfig.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Assign1.pdb
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.AssemblyInfo.cs
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.Assign1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.build.Assign1.props
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Assign1.props
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Assign1.props
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\scopedcss\bundle\Assign1.styles.css
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.csproj.CopyComplete
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\refint\Assign1.dll
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.pdb
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\Assign1.genruntimeconfig.cache
+C:\Users\promact\Desktop\API\Assign1 - Copy\Assign1\obj\Debug\net7.0\ref\Assign1.dll
